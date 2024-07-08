@@ -15,17 +15,25 @@ Following features were categorised based on their respective nature.
 
 Categorical Features: 
 `Marital_Status`: 'Married', 'Single'
+
 `Gender`: 'Female', 'Male'
+
 `Education`: 'Bachelors', 'Partial College', 'High School', 'Partial High School', 'Graduate Degree'
+
 `Occupation`: 'Skilled Manual', 'Clerical', 'Professional', 'Manual', 'Management'
+
 `Home_Owner`: 'Yes', 'No'
+
 `Commute_Distance`:  0.5,  2.5,  7.5, 10.0
+
 `Region`: 'Europe', 'Pacific', 'North America'
 
 Numerical Features:
 `Income`
+
 `Children`
 `Age`
+
 
 Target feature:
 `Purchased_Bike`: 1, 0
